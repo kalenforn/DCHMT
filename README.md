@@ -24,7 +24,7 @@ then use the "data/make_XXX.py" to generate .mat file
 For example:
 > cd COCO_DIR # include train val images and annotations files
 >
-> make mat
+> mkdir mat
 >
 > cp DCMHT/data/make_coco.py mat 
 >
