@@ -4,7 +4,7 @@
 The main architecture of our method.
 ![framework](./data/structure.jpg)
 
-We propose a selecting mechanism to generate hash code that will transfor the discrete space into a continuous space. Hash code will be encoded as a $2D$ vector.
+We propose a selecting mechanism to generate hash code that will transfor the discrete space into a continuous space. Hash code will be encoded as a seires of $2D$ vectors.
 ![hash](./data/method.jpg)
 
 ## Dependencies
