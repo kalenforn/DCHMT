@@ -1,4 +1,4 @@
-# Differentiable Cross Modal Hashing via Multimodal Transformers[https://dl.acm.org/doi/abs/10.1145/3503161.3548187]
+# Differentiable Cross Modal Hashing via Multimodal Transformers [link](https://dl.acm.org/doi/abs/10.1145/3503161.3548187)
 
 ## Framework
 The main architecture of our method.
@@ -63,6 +63,16 @@ After the dataset has been prepared, we could run the follow command to train.
 
 ## Result
 ![result](./data/result.png)
+
+## Citation
+inproceedings{10.1145/3503161.3548187,
+author = {Tu, Junfeng and Liu, Xueliang and Lin, Zongxiang and Hong, Richang and Wang, Meng},
+title = {Differentiable Cross-Modal Hashing via Multimodal Transformers},
+year = {2022},
+booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+pages = {453–461},
+numpages = {9},
+}
 
 ## Acknowledegements
 [CLIP](https://github.com/openai/CLIP)
