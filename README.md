@@ -1,4 +1,4 @@
-# Differentiable Cross Modal Hashing via Multimodal Transformers [link](https://dl.acm.org/doi/abs/10.1145/3503161.3548187)
+# Differentiable Cross Modal Hashing via Multimodal Transformers [paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548187)
 
 ## Framework
 The main architecture of our method.
