@@ -88,3 +88,9 @@ numpages = {9},
 [DADH](https://github.com/Zjut-MultimediaPlus/DADH)
 
 [deep-cross-modal-hashing](https://github.com/WangGodder/deep-cross-modal-hashing)
+
+
+## Apologize:
+*2023/03/01*
+
+I find figure 1 with the wrong formula for the vartheta, the right one is the function (10). It has been published, so I can't fix it.
