@@ -1,5 +1,5 @@
 # Differentiable Cross Modal Hashing via Multimodal Transformers [paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548187)
-# This project has been moved to [clip-based-cross-modal-hash](ttps://github.com/kalenforn/clip-based-cross-modal-hash/tree/main)
+# This project has been moved to [clip-based-cross-modal-hash](https://github.com/kalenforn/clip-based-cross-modal-hash/tree/main)
 
 ## Framework
 The main architecture of our method.
